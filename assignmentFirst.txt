@@ -1,0 +1,46 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+
+Ans.) JavaScript is a object oriented programming language and its can be use for bot client side and server side.
+      We can buit Website, Mobile application, we can also make server Application , game.
+
+2.  What is the difference between client-side and server-side?
+
+Ans.)  In client-side every thing is visible to the client end or the client can interact with it but on Server side the 
+       client or the user will not able to see that or the cant interact with it we can also say server side as a back-end   
+       example:- if we are making a mobile authentication page or login page for mobile number which are present in the database.
+       the field where the user can fill there details is client-side and the authentication part when the user get otp or validation 
+       of the mobile number. and the checking of mobile number is present in the database or not this thing is server-side.
+
+3.) What is Nodejs?
+
+Ans.) Node Js is a server-side language which is buit using chrome V8 engine with c++. and it's buit to run JavaScript outside the browser.
+      nodejs work single thread non blocking I-O(Input-output) model and its work asynchronusly because on it.
+
+4. Explain Scope in JavaScript      
+
+Ans.)  JavaScript having 3 types of Scope
+       * Block scope
+       * Function scope
+       * Global scope
+
+       Block scope:- A variable declared incide a scope {} is can not assessed from outside of the block example: let var  .....
+       
+       Function scope:- A variable which is declared inside a function is called as function scope or local scope and it can't be assessed outside that function
+
+       Global scope:- Variables declared Globally outside any function have Global Scope.Global variables can be accessed from anywhere in a JavaScript program.
+                      Variables declared with var, let and const are quite similar when declared outside a block.They all have Global Scope.
+
+5. JavaScript is asynchronous or synchronous.
+
+Ans.)  JavaScript is a synchronous
+
+6. JavaScript is Single-threaded or Multi-threaded.
+
+Ans.)  JavaScript is single-threaded and only one line of code can be executed at any given time.
+
+7.) Explain DOM in your own word.
+
+Ans) DOM stand for document object model its allow to acess and update the content , structure, and style of a document. we can acess all the div
+     Id, class all the elements. And modifiy it we can also change the style of a document. 
+
+
